@@ -13,11 +13,11 @@
   };
   
   /* Step 3: enter your page title and description for SEO purposes */
-  const PAGE_TITLE = '';
-  const PAGE_DESCRIPTION = '';
+  const PAGE_TITLE = '赤木酱实验室';
+  const PAGE_DESCRIPTION = '赤木酱实验室';
   
   /* Step 4: enter a Google Font name, you can choose from https://fonts.google.com */
-  const GOOGLE_FONT = '';
+  const GOOGLE_FONT = 'Noto Sans Simplified Chinese';
   
   /* Step 5: enter any custom scripts you'd like */
   const CUSTOM_SCRIPT = ``;
