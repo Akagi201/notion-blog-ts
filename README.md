@@ -1,10 +1,8 @@
-# notion-blog
+# notion-blog-ts
 
 Deploy custom domain notion blog with Cloudflare worker
 
-## TODO
 
-- [ ] Github Actions to update site configs.
 
 ## Refs
 
@@ -13,3 +11,5 @@ Deploy custom domain notion blog with Cloudflare worker
 - <https://github.com/stephenou/fruitionsite>
 - <https://github.com/classmethod/worknot>
 - <https://worknot.pages.dev/>
+- <https://github.com/TheBranchDriftCatalyst/notion-cloudflare-blog-worker>
+- <https://stephenou.notion.site/stephenou/Fruition-Free-Open-Source-Toolkit-for-Building-Websites-with-Notion-771ef38657244c27b9389734a9cbff44>
